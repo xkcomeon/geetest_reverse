@@ -11,7 +11,7 @@ npm install canvas jsdom
 
 ### 捐赠
 如果你觉得项目帮助到您，请认真考虑请作者喝一杯咖啡 😄
-![donate](assets/20210601134152.jpg){:height="100px" width="400px"}
+![donate](assets/20210601134152.jpg)
 
 ### License
 MIT [©coder-fly](https://github.com/coder-fly)
