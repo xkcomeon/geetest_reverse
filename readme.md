@@ -6,4 +6,12 @@
 npm install canvas jsdom
 ```
 
+- 某站的注册相关请求
 ![test](http://bbs.nightteam.cn/upload/tmp/1239_8VK78YD5NNME3BD.gif)
+
+### 捐赠
+如果你觉得项目帮助到您，请认真考虑请作者喝一杯咖啡 😄
+![donate](assets/20210601134152.jpg)
+
+### License
+MIT [©coder-fly](https://github.com/coder-fly)
