@@ -11,7 +11,9 @@ npm install canvas jsdom
 
 ### 捐赠
 如果你觉得项目帮助到您，请认真考虑请作者喝一杯咖啡 😄
-![donate](assets/20210601134152.jpg)
+| 微信二维码 | 支付宝二维码 |
+| -------- | ---------- |
+| <img src="https://github.com/coder-fly/geetest_reverse/blob/master/assets/wechat.jpg" width="200" height="200" alt="wechat-code"/><br/> | <img src="https://github.com/coder-fly/geetest_reverse/blob/master/assets/alipay.jpg" width=220px alt="alipay-code"> |
 
 ### License
 MIT [©coder-fly](https://github.com/coder-fly)
